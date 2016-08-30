@@ -1,0 +1,66 @@
+body {
+	background-color:#00FFFF;
+}
+
+.logo {
+	margin:auto;
+	width:400px;
+}
+
+main {
+	background-color:white;
+	margin: auto;
+	width:400px;
+	padding-left: 40px;
+	padding-right:40px;
+}
+
+h1 {
+	font-family:'Helvetica';
+	font-size: 30px;
+	text-align:center;
+	font-weight:normal;
+	color:#A9A9A9;
+	margin-top:40px;
+	margin-bottom:40px;
+
+}
+
+.sign-up fieldset {
+	border:none;
+}
+
+.sign-up label {
+font-family:'Helvetica';
+font-size: 15px;
+
+}
+.sign-up input {
+	display:block;
+	padding:15px;
+	width:320px;
+	height:55px;
+	border:2px solid #e7e7e7;
+	padding:15px;
+}
+
+ .sign-up button {
+	display:block;
+	padding:15px;
+	width:320px;
+	height:55px;
+	border:2px solid #e7e7e7;
+	padding:15px;
+	background-color: #90EE90;
+	color:white;
+}
+
+button:hover {
+	background-color: green:;
+}
+
+footer {
+	margin: 0 auto;
+	width:400px;
+	text-align:center;
+}
